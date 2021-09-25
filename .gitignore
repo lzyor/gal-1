@@ -21,3 +21,11 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+
+# Lzyor
+
+# 不管理assets
+assets/
+
+# 框架开发过程中忽略剧情脚本
+scripts/
